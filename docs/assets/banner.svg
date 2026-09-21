@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">二维码工坊 QR Code Workshop</title><desc id="desc">离线网页与 Chrome 扩展，网址和文字转二维码，本地生成，PNG 和 SVG 下载。</desc>
+<rect width="1200" height="360" rx="24" fill="#f0f5ec"/><rect x="55" y="58" width="86" height="8" rx="4" fill="#517b48"/>
+<text x="55" y="135" fill="#234331" font-size="46" font-weight="700" font-family="sans-serif">二维码工坊</text>
+<text x="57" y="180" fill="#6c8263" font-size="24" font-family="sans-serif">QR Code Workshop</text>
+<text x="57" y="244" fill="#345439" font-size="22" font-family="sans-serif">离线网页 + Chrome 扩展</text>
+<text x="57" y="287" fill="#788970" font-size="19" font-family="sans-serif">本地生成 · 链接悬停预览 · PNG / SVG 下载</text>
+<rect x="888" y="72" width="218" height="218" rx="36" fill="#28563e"/>
+<g stroke="#fff" stroke-width="9" fill="none"><rect x="920" y="104" width="48" height="48"/><rect x="1026" y="104" width="48" height="48"/><rect x="920" y="210" width="48" height="48"/></g>
+<g fill="#fff"><rect x="935" y="119" width="18" height="18"/><rect x="1041" y="119" width="18" height="18"/><rect x="935" y="225" width="18" height="18"/><rect x="1015" y="198" width="19" height="19"/><rect x="1055" y="198" width="19" height="19"/><rect x="1035" y="218" width="19" height="19"/><rect x="1015" y="238" width="19" height="19"/><rect x="1055" y="238" width="19" height="19"/></g></svg>

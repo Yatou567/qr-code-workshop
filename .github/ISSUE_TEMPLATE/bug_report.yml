@@ -1,0 +1,25 @@
+name: 问题反馈
+description: 反馈二维码生成、网页或插件问题
+title: "[Bug] "
+labels: [bug]
+body:
+  - type: dropdown
+    id: version
+    attributes:
+      label: 使用版本
+      options: [Chrome 扩展, 离线网页版]
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤、预期结果与实际结果
+      description: 请勿填写敏感链接、访问令牌或私人信息。
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: 操作系统、浏览器版本、项目版本
+    validations:
+      required: true
